@@ -32,6 +32,13 @@ int Function(int a[], int n)
 }
 
 int main(){
+    /*--------FOR GENERAL TEST CASE------
+    int n;
+    cin>>n;
+    int a[n];
+    for(int i=0;i<n;i++)
+        cin>>a[i];
+    cout<<Function(a,n); */
     int a[]={374, 40, 854, 203, 203, 156, 362, 279, 812, 955, 
 600, 947, 978, 46, 100, 953, 670, 862, 568, 188, 
 67, 669, 810, 704, 52, 861, 49, 640, 370, 908, 
